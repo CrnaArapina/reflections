@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    polesno e za pregled gi pokazuva samo razlikite vo dvata fajlovi
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    epa polesno e da znais koj del rabotel pravilno a koj ne taka da imas celosna istorija na dokujmentot
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros - si gi zacuvuvas koga mislis deka treba(pr koga ke resis nekoj bug ili nekoa druga promena)
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    oti ima noa so go vikat repository kade sto ima poveke fajlovi i moze da vidis  koj fajl koga promena ima
+
+How can you use the commands git log and git diff to view the history of files?
+
+   prvin go otcituvame koj fajl sakame da go otvorime so git clone pa git log da ni go otvore koi commits gi ima pa so git diff sporeduvame dva commits koi ni gi dava promenite
+
+How might using version control make you more confident to make changes that
+could break something?
+
+   pa so git checkout moze da gi vratime prethodnite verzii na programot so sme gi rabotele i taka da najdime so git diff razlikite megu dvete verzii i lesno da se najde kaj se ima greska napraveno
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Nekoi novi raboti
+    
